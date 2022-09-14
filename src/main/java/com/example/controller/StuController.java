@@ -74,4 +74,11 @@ public class StuController {
         return JSON.toJSONString(list);
     }
 
+    @RequestMapping("/getStu")
+    @ResponseBody
+    public String getStu() {
+
+        return "";
+    }
+
 }
