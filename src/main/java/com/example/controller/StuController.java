@@ -77,7 +77,7 @@ public class StuController {
     @RequestMapping("/getStu")
     @ResponseBody
     public String getStu() {
-
+        System.out.println("Hello Git!");
         return "";
     }
 
