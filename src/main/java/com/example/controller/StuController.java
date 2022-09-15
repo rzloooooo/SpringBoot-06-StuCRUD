@@ -79,6 +79,7 @@ public class StuController {
     public String getStu() {
         System.out.println("Hello Git!");
         System.out.println("Master Test!");
+        System.out.println("Hot-fix Test!");
         return "";
     }
 }
