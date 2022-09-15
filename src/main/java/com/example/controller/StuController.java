@@ -80,5 +80,4 @@ public class StuController {
         System.out.println("Hello Git!");
         return "";
     }
-
 }
