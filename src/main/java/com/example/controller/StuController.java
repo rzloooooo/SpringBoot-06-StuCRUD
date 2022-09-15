@@ -78,6 +78,7 @@ public class StuController {
     @ResponseBody
     public String getStu() {
         System.out.println("Hello Git!");
+        System.out.println("Hot-fix Test!");
         return "";
     }
 }
